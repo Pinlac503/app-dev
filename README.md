@@ -42,7 +42,7 @@ It follows **Paul Bäumer**, a young German soldier during **World War I**, who 
 ---
 
 ## Awards Won and Recognition (2022 Version)
-| Award | Category | Result |
+| Award | Category |
 |--------|-----------|---------|
 | Academy Awards (2023) | Best International Feature Film |
 | Academy Awards (2023) | Best Cinematography |
