@@ -63,4 +63,4 @@ When compared to the **1930 film** and the **original book**, the new version fe
 
 ### Summary
 *All Quiet on the Western Front* remains one of the most **important anti-war stories ever told**.  
-Whether through **the book**, **the 1930 film**, or **the 2022 adaptation**, it reminds us that in war, **no side truly wins**only humanity loses.
+Whether through **the book**, **the 1930 film**, or **the 2022 adaptation**, it reminds us that in war, **no side truly wins** only humanity loses.
