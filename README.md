@@ -2,24 +2,20 @@
 My first repository
 
 # My Favorite Movie: *All Quiet on the Western Front (2022)*
+> “We are not youth any longer. We don’t want to take the world by storm. We are fleeing. We fly from ourselves. From our life.”  
+> — *Erich Maria Remarque, All Quiet on the Western Front*
 
-![All Quiet on the Western Front Poster](https://upload.wikimedia.org/wikipedia/en/f/fc/All_Quiet_on_the_Western_Front_%282022_film%29.jpg)
+![All Quiet on the Western Front Poster](https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/all-quiet-on-the-western-front-2022/large_all-quiet-on-the-western-front-movie-poster-2022.jpg)
 
 ## Overview
-*All Quiet on the Western Front (2022)* is a **German epic anti-war film** directed by **Edward Berger**, based on the 1929 novel by *Erich Maria Remarque*.  
-The story follows **Paul Bäumer**, a young German soldier in **World War I**, who joins the army with enthusiasm but soon faces the harsh, inhuman reality of war.
+*All Quiet on the Western Front (2022)* is a **German anti-war film** directed by **Edward Berger**, based on the novel by *Erich Maria Remarque*.  
+It follows **Paul Bäumer**, a young German soldier during **World War I**, who enlists with his school friends only to experience the unimaginable horrors of the battlefield.
 
 ---
 
 ## Main Characters
-- **Paul Bäumer** – A naive student turned soldier.  
+- **Paul Bäumer** – A naive student turned soldier.
 - **Katczinsky (Kat)** – Paul’s mentor and loyal companion.
-
----
-
-## Memorable Quote
-> “We are not youth any longer. We don’t want to take the world by storm. We are fleeing. We fly from ourselves. From our life.”  
-> *Erich Maria Remarque, All Quiet on the Western Front*
 
 ---
 
@@ -41,30 +37,30 @@ The story follows **Paul Bäumer**, a young German soldier in **World War I**, w
 
 ---
 
-## Awards and Recognition (2022 Version)
-| Award | Category | Result |
-|--------|-----------|---------|
-| Academy Awards (2023) | Best International Feature Film | Won |
-| Academy Awards (2023) | Best Cinematography | Won |
-| Academy Awards (2023) | Best Production Design | Won |
-| Academy Awards (2023) | Best Original Score | Won |
+## Awards Won and Recognition (2022 Version)
+| Award | Category |
+|--------|-----------|
+| Academy Awards (2023) | Best International Feature Film |
+| Academy Awards (2023) | Best Cinematography |
+| Academy Awards (2023) | Best Production Design |
+| Academy Awards (2023) | Best Original Score |
 
 ---
 
 ## Why I Like It
 The 2022 version brings the story to life with **raw emotion**, **haunting visuals**, and **powerful music**.  
-It captures the **fear, desperation, and loss of humanity** that war brings themes that remain relevant even today.  
+It captures the **fear, desperation, and loss of humanity** that war brings — themes that remain relevant even today.  
 When compared to the **1930 film** and the **original book**, the new version feels more **immersive and tragic**, showing the same message through modern filmmaking.
 
 ---
 
 ## Watch & Read
-- [Netflix - All Quiet on the Western Front (2022)](https://www.netflix.com/title/81260280)  
+- [Netflix - All Quiet on the Western Front (2022)](https://www.netflix.com/title/81260280)
 - [All Quiet on the Western Front (1930) - IMDb](https://www.imdb.com/title/tt0020629/)  
-- [Original Book by Erich Maria Remarque - Goodreads](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front)
+- [Original Book by Erich Maria Remarque - Goodreads](https://www.gutenberg.org/ebooks/75011)
 
 ---
 
 ### Summary
-*All Quiet on the Western Front* remains one of the most **important anti-war stories ever told**.  
+*All Quiet on the Western Front* remains one of the most **important anti-war stories ever told**.
 Whether through **the book**, **the 1930 film**, or **the 2022 adaptation**, it reminds us that in war, **no side truly wins** only humanity loses.
