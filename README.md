@@ -14,7 +14,7 @@ It follows **Paul Bäumer**, a young German soldier during **World War I**, who 
 ---
 
 ## Main Characters
-- **Paul Bäumer** – A naive student turned soldier.  
+- **Paul Bäumer** – A naive student turned soldier.
 - **Katczinsky (Kat)** – Paul’s mentor and loyal companion.
 
 ---
