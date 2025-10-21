@@ -59,9 +59,9 @@ When compared to the **1930 film** and the **original book**, the new version fe
 ---
 
 ## Watch & Read
-- [Netflix - All Quiet on the Western Front (2022)](https://www.netflix.com/title/81260280)  
+- [Netflix - All Quiet on the Western Front (2022)](https://www.netflix.com/title/81260280)
 - [All Quiet on the Western Front (1930) - IMDb](https://www.imdb.com/title/tt0020629/)  
-- [Original Book by Erich Maria Remarque - Goodreads](https://www.goodreads.com/book/show/355697.All_Quiet_on_the_Western_Front)
+- [Original Book by Erich Maria Remarque - Goodreads](https://www.gutenberg.org/ebooks/75011)
 
 ---
 
