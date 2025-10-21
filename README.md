@@ -2,6 +2,8 @@
 My first repository
 
 # My Favorite Movie: *All Quiet on the Western Front (2022)*
+> “We are not youth any longer. We don’t want to take the world by storm. We are fleeing. We fly from ourselves. From our life.”  
+> — *Erich Maria Remarque, All Quiet on the Western Front*
 
 ![All Quiet on the Western Front Poster](https://s3.amazonaws.com/static.rogerebert.com/uploads/movie/movie_poster/all-quiet-on-the-western-front-2022/large_all-quiet-on-the-western-front-movie-poster-2022.jpg)
 
@@ -13,13 +15,7 @@ It follows **Paul Bäumer**, a young German soldier during **World War I**, who 
 
 ## Main Characters
 - **Paul Bäumer** – A naive student turned soldier.  
-- **Katczinsky (Kat)** – Paul’s mentor and loyal companion.  
-
----
-
-## Memorable Quote
-> “We are not youth any longer. We don’t want to take the world by storm. We are fleeing. We fly from ourselves. From our life.”  
-> — *Erich Maria Remarque, All Quiet on the Western Front*
+- **Katczinsky (Kat)** – Paul’s mentor and loyal companion.
 
 ---
 
